@@ -1,6 +1,7 @@
 h1{
 color: rgb(224, 247, 25);
 text-align: center;
+padding: 10px;
 }
 
 p{
@@ -11,6 +12,18 @@ body{
   background-color: purple
 
 }
+
+.ul{
+  color: purple
+
+}
+
+.footer {
+  background-color: rgb(224, 247, 25);
+  text-align: center;
+  padding: 10px;
+}
+
 
 /* Importing the Roboto font from Google Fonts. */
 @import url("https://fonts.googleapis.com/css?family=Roboto:400");
